@@ -1,0 +1,6 @@
+img {
+    max-width: 25%;  
+    height: auto;  
+    display: block;  /* Tar bort extra utrymme under bilden */
+    margin: 0 auto;
+}
