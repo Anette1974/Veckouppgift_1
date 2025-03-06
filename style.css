@@ -1,0 +1,12 @@
+h1{
+    /*margin: 1em;
+    border: 0.25em solid rgb(36, 104, 36);
+    padding: 1em;*/
+}
+
+hr{
+    border: none; /* Tar bort standardlinjen */
+    height: 1px; /* Tjocklek på linjen */
+    background-color: black; /* Färg på linjen */
+    margin: 20px 0; /* Avstånd ovanför och under */
+}
