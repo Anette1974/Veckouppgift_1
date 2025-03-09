@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recept</title>
+    <meta name="Om mig" content="Anette">
+    <link rel="stylesheet" href="style_mig.css"> <!-- Kopplar en CSS-fil -->
+</head>
+<body>
+    <header>
+        <h1>
+            Om mig, Anette
+        </h1>
+        <img src="TeamsFoto.JPG" alt="Bild på Anette">
+        <p>
+            Bor i Göteborg, arbetar som testare av eftermarknadssystem på Volvo Group IT sedan många år.
+        </p>
+    </header>
+    <main>
+        <section>
+            <h2>
+                Mina intressen:
+            </h2>
+            <ul>
+                <li>Barnen</li>
+                <li>Camping</li>
+                <li>Vårt hus</li>
+            </ul>
+         </section>
+         <section>
+            <h2>Nästa resmål:</h2>
+            <p>Till sommaren tänkte vi besöka <a href="https://gotland.com/">Gotland</a> med husvagnen.</p>
+        </section>
+    </main>
+</body>

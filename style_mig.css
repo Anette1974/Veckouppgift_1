@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(238, 222, 241);
+}
+
+h1{
+    color: purple;
+    text-align: center;
+    font-family:"Bradley Hand ITC";
+
+}
+
+h2{
+    color: rgb(200, 162, 200);
+    font-family:"Bradley Hand ITC", cursive ;
+}
+
+p{
+    font-family:"Comic Sans MS";
+}
+
+ul{
+    font-family:"Comic Sans MS";
+}
+
+img {
+    max-width: 25%;  
+    height: auto;  
+    display: block;  /* Tar bort extra utrymme under bilden */
+    margin: 0 auto;
+    border-radius: 15px; /* Gör hörnen rundare */
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.6); /* Lägger till en mjuk skugga */
+}
